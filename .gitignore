@@ -15,8 +15,9 @@ profile
 DerivedData
 .idea/
 *.hmap
+xccheckout
+xcshareddata
 *.xccheckout
-
 pbxuser
 *.perspective
 *.perspectivev3
