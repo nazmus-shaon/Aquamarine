@@ -17,5 +17,12 @@ DerivedData
 *.hmap
 *.xccheckout
 
+pbxuser
+*.perspective
+*.perspectivev3
+xcuserdata
+xcuserdatad
+xcworkspacedata
+
 #CocoaPods
 Pods
